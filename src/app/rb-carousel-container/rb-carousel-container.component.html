@@ -1,0 +1,6 @@
+
+<div class="corouselConatiner">
+<rb-carousel [dataSource]="imageArray" [carouselSettings]="carouselSettings" (carouselEnd)="corouselEvent($event)"
+(transitionStart)="transitionStart($event)" (transitionEnd)="transitionEnd($event)"
+(onNextSlide)="onNextSlide($event)" (onPreviousSlide)="onPreviousSlide($event)"></rb-carousel>
+</div>
