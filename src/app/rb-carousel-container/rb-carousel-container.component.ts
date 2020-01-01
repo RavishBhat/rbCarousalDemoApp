@@ -16,7 +16,12 @@ export class RbCarouselContainerComponent implements OnInit {
     {CaptionText:'Nature',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/nature.JPG'},  
     {CaptionText:'The stone road',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/beach.jpg'},
     {CaptionText:'The Hilltop',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/hill.jpg'},
-    {CaptionText:'Wings',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/wings.jpg'}      
+    {CaptionText:'The House',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/thehouse.jpg'},
+    {CaptionText:'Temple at hilltop',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/thehilltemple.jpg'},
+    {CaptionText:'Gate way of India',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/thegateway.jpg'},
+    {CaptionText:'Nature at its best',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/nature3.jpg'},
+    {CaptionText:'The view',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/nature2.jpg'},
+    {CaptionText:'The beach',imageUrl:'https://ravishimages.s3.ap-south-1.amazonaws.com/myImages/beach2.jpg'}      
   ];
 
   carouselSettings = {
